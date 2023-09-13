@@ -1,0 +1,9 @@
+---
+title: "Mona Zhu"
+---
+
+An award-winning research scientist with 10+ years of experience in data analytics and mixed-methods research, I am passionate about storytelling with data. I obtained my PhD in Cognitive Psychology from the University of Waterloo in 2020, where I studied how and when we decide to rearrange items (or ourselves) in space, what drives these decisions, and why different individuals might choose to interact with their environments differently.
+
+Currently, I am working towards a Master's of Data Science at the University of British Columbia. Prior to returning to school, I worked as a business consultant at BEworks, where I led and supported client challenges in both public and private sectors to provide actionable and evidence-based recommendations. Many of the projects I worked on involved experimentation, which require expertise in designing surveys and field experiments, as well as data analysis and visualization.
+
+When I’m not pouring over data, I try to divide my time between my interests in digital art, fashion design, longboarding, and aspiring to become a better drummer. 
